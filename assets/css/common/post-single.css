@@ -8,6 +8,10 @@
     font-size: 40px;
 }
 
+.post-title:hover {
+    text-decoration: underline;
+}
+
 .post-description {
     margin-top: 10px;
     margin-bottom: 5px;
